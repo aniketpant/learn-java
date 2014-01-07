@@ -1,4 +1,6 @@
-// TenHelloWorld.java
+/**
+ * TenHelloWorld.java
+ */
 
 public class TenHelloWorld {
    public static void main(String[] args) {
